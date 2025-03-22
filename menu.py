@@ -9,6 +9,7 @@ def initial_menu():
         [2]Retangulo
         [3]Quadrado
         [4]Circulo
+        [0]Sair 
     """)
 def triangle_menu():
     print("""
