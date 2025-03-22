@@ -1,4 +1,4 @@
-from menu import initial_menu
+from logic import logic
 
 if __name__ == "__main__":
-    initial_menu()
+    logic()
