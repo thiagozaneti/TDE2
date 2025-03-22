@@ -1,0 +1,16 @@
+O programa a ser desenvolvido irá calcular a área de formas 
+geométricas escolhidas pelo usuário. O usuário irá selecionar a 
+forma desejada através do número correspondente ao menu apresentado na tela. 
+As formas disponíveis para cálculo de área são: triângulo, retângulo, quadrado e círculo. 
+O programa irá solicitar os dados necessários para cada forma e calcular a área correspondente, 
+apresentando o resultado na tela. O usuário poderá repetir o processo quantas vezes desejar até 
+escolher a opção de saída do programa, que deverá ser informada explicitamente.
+
+As fórmulas para calcular as áreas são dadas da seguinte forma:
+Triângulo: A área do triângulo é dada pela fórmula (base x altura) / 2, onde "base" é a medida da base do triângulo e "altura" é a medida da altura em relação à base.
+Retângulo: A área do retângulo é dada pela fórmula base x altura, onde "base" é a medida da base do retângulo e "altura" é a medida da altura em relação à base.
+Quadrado: A área do quadrado é dada pela fórmula lado x lado, onde "lado" é a medida de um dos lados do quadrado. Como todos os lados do quadrado são iguais, podemos simplificar essa fórmula para lado².
+Círculo: A área do círculo é dada pela fórmula π x raio², onde "π" (pi) é uma constante matemática aproximadamente igual a 3,14159 e "raio" é a medida do raio do círculo.
+Premissas:
+Utilize estrutura condicional;
+Utilize estrutura de repetição;
